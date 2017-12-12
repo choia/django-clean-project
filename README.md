@@ -3,6 +3,7 @@
 
 ### Requirements
 - **Clone the repository** - <i>(**Will require a virtualenvwrapper setup**)</i>
+- Create and postgres database and setup a username and password
 - **Simply create a a virtualenv folder and activate**<br>
 `mkvirtualenv project-name`<br>
 `workon project-name`<br>
